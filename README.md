@@ -6,7 +6,7 @@ Nayeli🥀 is cool telegram🍎 groups vc music project🎋.
 <p align="center">
   <img src="https://telegra.ph/file/fd961d7a57de98ea477a8.jpg">
 </p>
-Nayeli🥀.was made by doozy team💾
+Nayeli🥀.was made by doozy team 📆
 
 # Deployment🎋
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kasun-bandara1/Nayeli-music)
