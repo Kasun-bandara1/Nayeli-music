@@ -11,4 +11,4 @@ Nayeli🥀 is cool telegram🍎 groups vc music project🎋.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/doozylab-lk/video-stream)
 
 # Source Owner ♥️ 
-<a href="https://t.me/SANTA_R1"><img src="https://img.shields.io/badge/kasun%20🥀සැන්ටා'හ්🥀-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+<a href="https://t.me/SANTA_R1"><img src="https://img.shields.io/badge/kasun%20🥀සැන්ටා🥀-blue.svg?style=for-the-badge&logo=Telegram"></a> 
