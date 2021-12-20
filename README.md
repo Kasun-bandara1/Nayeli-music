@@ -22,6 +22,7 @@ Nayeli🥀 is cool telegram🍎 groups vc music project🎋.
 
 
 # credits 📆
-![GitHub Contributors Image](https://contrib.rocks/image?repo=doozylab-lk/Nayeli-music) ![GitHub Contributors Image](https://contrib.rocks/image?repo=@doozylab-lk/video-stream)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=kasun-bandara1/Nayeli-music) 
+![GitHub Contributors Image](https://contrib.rocks/image?repo=doozylab-lk/video-stream)
 
 
