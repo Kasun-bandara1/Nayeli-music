@@ -2,7 +2,7 @@
   "name": "Music Bot",
   "description": "Telegram UserBot to Play Audio in Telegram Voice Chats 🔊 (@nayeli)",
   "keywords": ["telegram", "tgvoicebot", "tgvcbot"],
-  "repository": "https://github.com/hirunaofficial/Telegram-Group-Voice-Chat-Bot",
+  "repository": "https://github.com/Kasun-bandara1/Nayeli-music",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
